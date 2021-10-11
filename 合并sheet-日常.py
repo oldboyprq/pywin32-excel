@@ -45,5 +45,3 @@ for i in range(sheet_num):
 book.Save()
 book.Close()
 excel.Quit()
-
-# 故障大类，完成处理部门，故障号，工单流水号，请人工核查
